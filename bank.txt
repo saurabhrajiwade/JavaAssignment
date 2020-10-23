@@ -1,0 +1,1 @@
+Balance Check - Balance : Rs 2000Acoount Credited - Credit : Rs 500Balane : 2000Acoount Credited - Credit : Rs 500Balance : 2500Acoount Credited - Credit : Rs 600Balance : 2600Acoount Credited - Credit : Rs 400Balance : 2400Acoount Debited - Debit : Rs 1000Balance : 1000
